@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PlatformStill
+comment0.text=\r\n\ This\ class\ stops\ objects\ from\ falling\ though\ it.\r\n\ It\ spawns\ in\ randomly\ from\ the\ right\ and\ despawns\ on\ the\ left.\r\n\ \r\n\ @author\ Daniel\ Rotta\r\n\ @version\ 3/13/18\r\n
+comment1.params=
+comment1.target=PlatformStill()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ despawn()
+numComments=5
